@@ -1,0 +1,5 @@
+venv
+secrets.py
+client_secret.json
+__pycache__
+.idea
