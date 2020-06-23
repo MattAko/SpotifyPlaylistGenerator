@@ -6,12 +6,6 @@ Step 4: Search Spotify for Song
 Step 5: Add this song to Spotify Playlist
 """
 
-#--Youtube API--
-#CLient ID: 737672005079-8lo72l3ckrkou24a4nhkpj7vc5gk4s68.apps.googleusercontent.com
-#API key: AIzaSyBtaqDtNVvggZeHCKiBis6aEs-FaMymVD0
-#playlist id: 617ckGVakjqT0xtOG7EtAc
-
-
 import requests
 import json
 import os
